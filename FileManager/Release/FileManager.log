@@ -1,0 +1,18 @@
+﻿  Main.cpp
+A:\CppProjects\FileManager\FileManager\Main.cpp(101,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(262,59): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+A:\CppProjects\FileManager\FileManager\Main.cpp(296,24): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(298,24): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(696,20): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(718,21): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(747,47): warning C4018: >: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(747,91): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(803,21): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(811,26): warning C4018: >: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(814,26): warning C4018: <=: несоответствие типов со знаком и без знака
+  Создание кода
+  16 of 880 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    55 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  FileManager.vcxproj -> A:\CppProjects\FileManager\Release\FileManager.exe

@@ -1,0 +1,13 @@
+﻿  Main.cpp
+A:\CppProjects\FileManager\FileManager\Main.cpp(101,23): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(262,59): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+A:\CppProjects\FileManager\FileManager\Main.cpp(296,24): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(298,24): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(696,20): warning C4018: <: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(718,21): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(747,47): warning C4018: >: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(747,91): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(803,21): warning C4018: <=: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(811,26): warning C4018: >: несоответствие типов со знаком и без знака
+A:\CppProjects\FileManager\FileManager\Main.cpp(814,26): warning C4018: <=: несоответствие типов со знаком и без знака
+  FileManager.vcxproj -> A:\CppProjects\FileManager\Debug\FileManager.exe
